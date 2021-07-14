@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drprystupczuk&label=Profile%20views&color=0e75b6&style=flat" alt="drprystupczuk" /> </p>
 
-- 🔭 I’m currently working on **udemy courses**
+- 🔭 I’m currently working on **.Net Core**
 
-- 🌱 I’m currently learning **react native and react js**
+- 🌱 I’m currently learning **javascript, typescript and angular**
 
-- 💬 Ask me about **java, dotnet or sql**
+- 💬 Ask me about **java, c# or relational databases**
 
 - 📫 How to reach me **d.r.prystupczuk@gmail.com**
 
-- ⚡ Fun fact **Sometimes I stream on Twitch**
+- ⚡ Fun fact **Sometimes I stream on Twitch.tv**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
