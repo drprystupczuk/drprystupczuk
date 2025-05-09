@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dprystu_dev" target="blank"><img src="https://img.shields.io/twitter/follow/dprystu_dev?logo=twitter&style=for-the-badge" alt="dprystu_dev" /></a> </p>
 
-- 🔭 I’m currently working on **.net core project**
+- 🔭 I’m currently working on **C# .NET & React projects**
 
-- 🌱 I’m currently learning **frontend frameworks as angular and react**
+- 🌱 I’m currently learning **NodeJs & React Native**
 
-- 💬 Ask me about **relational databases and backend languages as C# or Java**
+- 💬 Ask me about **relational databases or backend development with C#**
 
 - 📫 How to reach me **d.r.prystupczuk@gmail.com**
 
